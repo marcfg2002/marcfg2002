@@ -4,7 +4,8 @@
 ![image](https://user-images.githubusercontent.com/99873001/214112166-cdea9315-f760-414e-b690-d190d4f4be97.png)
 
 Estoy estudiando para ser programador de aplicaciones multiplataforma. A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Android, usando el programa de Android Studio y el lenguaje Kotlin. Tambén mediante NetBeans estoy aprendiendo a codificar con Java.
-![image](https://user-images.githubusercontent.com/99873001/214113678-6c155c81-3e55-45e0-806e-11a0b2a2ba08.png)
+
+![image](https://user-images.githubusercontent.com/99873001/214114605-ce0914ac-2714-4910-991f-42a1ab0a08f0.png)
 
 
 ### Tecnologías:
@@ -23,7 +24,7 @@ Gmail: marcfg2002@gmail.com
 
 
 ### Bergants:
-![image](https://user-images.githubusercontent.com/99873001/214114105-3cd27bc4-ff6a-4713-9c41-eaae7f6849a4.png)
+![image](https://user-images.githubusercontent.com/99873001/214114514-0e077c33-dc38-4f43-8f29-c8f09fd43321.png)
 
 Esta aplicación tiene el objetivo de facilitar la gestión de actos diversos de castellers (Bergants), para evitar problemáticas tanto como de asistencia, transporte o falta de información así pudiendo organizar los ensayos ordenadamente.
 
