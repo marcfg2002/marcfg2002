@@ -2,7 +2,9 @@
 
 
 ![image](https://user-images.githubusercontent.com/99873001/214112166-cdea9315-f760-414e-b690-d190d4f4be97.png)
-Estoy estudiando para ser programador de aplicaciones multiplataforma. A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Android, usando el programa de Android Studio y el lenguaje Kotlin.
+Estoy estudiando para ser programador de aplicaciones multiplataforma. A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Android, usando el programa de Android Studio y el lenguaje Kotlin. Tambén mediante NetBeans estoy aprendiendo a codificar con Java.
+![image](https://user-images.githubusercontent.com/99873001/214113588-58300404-e8d0-4090-a494-cf62b6919ecc.png)
+
 
 ### Tecnologías:
 ![image](https://user-images.githubusercontent.com/99873001/214112895-440828b4-3f47-4474-bbb5-571f2e43dd27.png)
@@ -10,6 +12,7 @@ Estoy estudiando para ser programador de aplicaciones multiplataforma. A día de
 ![image](https://user-images.githubusercontent.com/99873001/214112928-4fe5eba6-1452-4222-ba36-459935b4e31f.png)
 ![image](https://user-images.githubusercontent.com/99873001/214112947-a5494715-b3e6-4046-b99f-fb585a69eaa8.png)
 ![image](https://user-images.githubusercontent.com/99873001/214112966-edf54a31-b204-40d5-8d35-379598f3db08.png)
+
 Y alguna más...
 
 ### Encuéntrame en:
