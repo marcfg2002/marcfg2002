@@ -1,9 +1,10 @@
 ### Hola, mi nombre es Marc Fernández González 👋
 
+Soy un estudiante de informática cursando el segundo año del Ciclo Formativo de Grado Superior (FP) en Desarrollo de Aplicaciones Multiplataforma en el Instituto Nicolau Copèrnic de Terrassa.
 
 ![image](https://user-images.githubusercontent.com/99873001/214112166-cdea9315-f760-414e-b690-d190d4f4be97.png)
 
-Estoy estudiando para ser programador de aplicaciones multiplataforma. A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Android, usando el programa de Android Studio y el lenguaje Kotlin. Tambén mediante NetBeans estoy aprendiendo a codificar con Java.
+A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Android, usando el programa de Android Studio y el lenguaje Kotlin. Tambén mediante NetBeans estoy aprendiendo a codificar con Java.
 
 ![image](https://user-images.githubusercontent.com/99873001/214114605-ce0914ac-2714-4910-991f-42a1ab0a08f0.png)
 
