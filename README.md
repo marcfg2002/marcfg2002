@@ -19,3 +19,11 @@ Y alguna más...
 Instagram: _marcfdz_
 
 Gmail: marcfg2002@gmail.com
+
+
+### Bergants:
+![image](https://user-images.githubusercontent.com/99873001/214114105-3cd27bc4-ff6a-4713-9c41-eaae7f6849a4.png)
+
+Esta aplicación tiene el objetivo de facilitar la gestión de actos diversos de castellers (Bergants), para evitar problemáticas tanto como de asistencia, transporte o falta de información así pudiendo organizar los ensayos ordenadamente.
+
+Descarga ya mi app: https://play.google.com/store/apps/details?id=cat.copernic.bergants
