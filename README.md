@@ -2,6 +2,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/99873001/214112166-cdea9315-f760-414e-b690-d190d4f4be97.png)
+
 Estoy estudiando para ser programador de aplicaciones multiplataforma. A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Android, usando el programa de Android Studio y el lenguaje Kotlin. Tambén mediante NetBeans estoy aprendiendo a codificar con Java.
 ![image](https://user-images.githubusercontent.com/99873001/214113678-6c155c81-3e55-45e0-806e-11a0b2a2ba08.png)
 
