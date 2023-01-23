@@ -1,9 +1,6 @@
 ### Hola, mi nombre es Marc Fernández González 👋
 
-<!--
-**marcfg2002/marcfg2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 Android engineer
 ![image](https://user-images.githubusercontent.com/99873001/214112166-cdea9315-f760-414e-b690-d190d4f4be97.png)
 Estoy estudiando para ser programador de aplicaciones multiplataforma. A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Android, usando el programa de Android Studio y el lenguaje Kotlin.
@@ -19,4 +16,3 @@ Y alguna más...
 ### Encuéntrame en:
 Instagram: _marcfdz_
 Gmail: marcfg2002@gmail.com
--->
