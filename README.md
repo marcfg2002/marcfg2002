@@ -11,6 +11,8 @@ A día de hoy me estoy formando en el ámbito de aplicaciones para móviles Andr
 
 ![image](https://user-images.githubusercontent.com/99873001/214114605-ce0914ac-2714-4910-991f-42a1ab0a08f0.png)
 
+También domino la codificación de un ERP usando la tecnología de SpringBoot en NetBeans.
+
 
 ### Tecnologías:
 ![image](https://user-images.githubusercontent.com/99873001/214112895-440828b4-3f47-4474-bbb5-571f2e43dd27.png)
