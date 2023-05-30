@@ -35,3 +35,8 @@ Gmail: marcfg2002@gmail.com
 Esta aplicación tiene el objetivo de facilitar la gestión de actos diversos de castellers (Bergants), para evitar problemáticas tanto como de asistencia, transporte o falta de información así pudiendo organizar los ensayos ordenadamente.
 
 Descarga ya mi app: https://play.google.com/store/apps/details?id=cat.copernic.bergants
+
+### Roap:
+Este ERP está diseñado hacia la gestión de tiendas de ropa, para así mismo tramitar y facilitar la coordinación de sus productos, sus pedidos y sus compras. El objetivo principal es facilitar el manejo del negocio y de sus apartados, anteriormente mencionados (sus productos, sus pedidos y sus compras), para así poder hacer que el cliente se centre en otras tareas que hacer de su tienda y crecer exponencialmente en profesionalidad.
+
+Git del proyecto: https://git.copernic.cat/roap/roap
