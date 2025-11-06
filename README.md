@@ -1,9 +1,6 @@
 ### Hola, mi nombre es Marc Fernández González 👋
 
-![image](https://user-images.githubusercontent.com/99873001/214174121-0698a635-1c02-461e-9c05-1199cb3551e7.png)
-
-
-Soy un estudiante de informática cursando el segundo año del Ciclo Formativo de Grado Superior (FP) en Desarrollo de Aplicaciones Multiplataforma en el Instituto Nicolau Copèrnic de Terrassa.
+Soy un estudiante de informática cursando el segundo año del Ciclo Formativo de Grado Superior (FP) en Desarrollo de Aplicaciones Multiplataforma en el centro de formación Stucom.
 
 ![image](https://user-images.githubusercontent.com/99873001/214112166-cdea9315-f760-414e-b690-d190d4f4be97.png)
 
