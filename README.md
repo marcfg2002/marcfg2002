@@ -327,7 +327,6 @@ During my **Higher Technician in Multiplatform Application Development (DAM)** a
 </tr>
 </table>
 
-
 ---
 
 # 🎓 Education
@@ -349,7 +348,20 @@ Starting **September 2026**
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcfg2002/marcfg2002/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/marcfg2002/marcfg2002/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/marcfg2002/marcfg2002/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/marcfg2002/marcfg2002/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
