@@ -345,8 +345,6 @@ Graduated in **2026**
 
 Starting **September 2026**
 
-<br>
-
 <p align="center">
   <picture>
     <source
