@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About me
 
-I'm a **Junior Software Developer** based in **Terrassa, Barcelona 🇪🇸**, and a graduate in **Multiplatform Application Development (DAM)**.
+I'm a **Junior Software Developer** based in **Terrassa, Barcelona**, and a graduate in **Multiplatform Application Development (DAM)**.
 
-I enjoy building projects from the ground up — from **mobile applications and backend systems** to **online games and interactive experiences**. I like exploring different areas of software development and turning ideas into functional products.
+I enjoy building projects from the ground up. From **mobile applications and backend systems** to **online games and interactive experiences**. I like exploring different areas of software development and turning ideas into functional products.
 
 In **September 2026**, I will begin a **Master's in Artificial Intelligence (AI) & Big Data**.
 
