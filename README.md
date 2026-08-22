@@ -3,7 +3,7 @@
 <h3 align="center">Junior Software Developer · DAM Graduate · AI & Big Data Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+apps%2C+backends+and+interactive+experiences;Junior+Software+Developer;DAM+Graduate+%C2%B7+AI+%26+Big+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Marc+Fern%C3%A1ndez+%F0%9F%91%8B;Junior+Software+Developer;DAM+Graduate+%C2%B7+AI+%26+Big+Data+Student" alt="Typing SVG" />
 </p>
 
 <!-- Optional: upload your photo as assets/profile.jpg and uncomment this:
