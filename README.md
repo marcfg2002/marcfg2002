@@ -37,15 +37,6 @@ My main interests currently include:
 > 🎮 Game Development  
 > 🤖 Artificial Intelligence & Big Data  
 
-```text
-🎓 DAM Graduate
-🤖 AI & Big Data Student
-📱 Mobile & Application Development
-⚙️ Backend, APIs & Databases
-🎮 Game Development & Networking
-🇩🇪 International Programming Experience
-```
-
 # 🚀 Featured Projects
 
 <table>
